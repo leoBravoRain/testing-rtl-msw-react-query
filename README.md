@@ -7,9 +7,10 @@ Demo project to work with:
 Demo based on:
 
 Templates used for testing utilities:
-https://github.com/TkDodo/testing-react-query/blob/main/src/tests/utils.tsx
-https://github.com/TkDodo/testing-react-query/blob/main/src/setupTests.ts
+
+- https://github.com/TkDodo/testing-react-query/blob/main/src/tests/utils.tsx
+- https://github.com/TkDodo/testing-react-query/blob/main/src/setupTests.ts
 
 
 Testingexamples were developed following this example:
-www.youtube.com/watch?v=rGK2KiP9a5Y&t=2s
+- www.youtube.com/watch?v=rGK2KiP9a5Y&t=2s
